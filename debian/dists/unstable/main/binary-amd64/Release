@@ -1,0 +1,5 @@
+Component: main
+Origin: smudgelang.github.io/debian
+Label: smudgelang.github.io/debian
+Architecture: amd64
+Description: Repository for Smudge-related packages

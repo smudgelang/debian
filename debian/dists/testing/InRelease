@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: smudgelang.github.io/debian
+Label: smudgelang.github.io/debian
+Codename: testing
+Date: Tue, 09 Oct 2018 23:12:08 UTC
+Architectures: amd64
+Components: main
+Description: Repository for Smudge-related packages
+MD5Sum:
+ c1c78f20ed6b92874066594cbd340b5f 934 main/binary-amd64/Packages
+ fe4fa19e62eeda28a56f248d9d661a6a 590 main/binary-amd64/Packages.gz
+ 57aaccdbbaeca602663d2d29af57ffb9 159 main/binary-amd64/Release
+SHA1:
+ 85296da12386cea5e8f94430bfd130192c4b2a9e 934 main/binary-amd64/Packages
+ 467e6bd9037531cae946ab1d26b2c7df4a958b7b 590 main/binary-amd64/Packages.gz
+ 0fc91da1aaf0fffc715216b60479f2bf82b8c1aa 159 main/binary-amd64/Release
+SHA256:
+ f326bf4fa62f415ca7766fc8b08d3433d592f9951f42f8d01a7f39a8c4675e47 934 main/binary-amd64/Packages
+ df170fa054a9f1b0cefd1056515e9a233bb672174d759581e2917b5a249fc6e6 590 main/binary-amd64/Packages.gz
+ aa148447671ec99965e139a9e238996d90b4888e7e0faafba54b4e8f97c86b19 159 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEwdr57KqppVVIK0cDPGYFgySB1KsFAlu9NckACgkQPGYFgySB
+1KtGLAwAhKH3hW/7DvhpfukXifbcRwA5YTbwycB40uXIWvwkc76Chly7GYA54UJk
+Uv3KffGo8uJnVJaOC9V+X3Jmt1mu91Oi0jCZOzZwMZYWXtAXZz9GDo9tL0k2/vrk
+Hn7dbkfQgecKdTobt4eJhilrZcugijcwebsfk6a/mNUhKNCHsNkU7WcWzPzeGViQ
+irUVolkXzvMs8ZXFLH7We7IxrUxBZY5Wd4JKklgnZrBxc67jWQJH2aOq+YIX3i2K
+3ARmzv25xO3y6WKmsDXO5GG9iB+C3PRU+GobAWZnk/UCvCi/WDNl2Et0TUltg75m
+XPqh3r2W/YcyOK7YZ2fO910dJ4m6PtlDbk1ozzgOQCdjWCrhIEslGp54djLTexkI
+w+CYULWTsMB6ZmWk95c57ee3IafkvyJU9pf1Ebjl8LE71NNJNURk+ZXkdoiPU6wR
+BG++lrVMe8KfrwjD+ZE0EJwihMtl9NOhkhUmqt/yjwIEHsHSJfmFOF8Q+D7O6Kij
+YfQcUmKl
+=vkFM
+-----END PGP SIGNATURE-----

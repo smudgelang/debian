@@ -1,0 +1,25 @@
+Package: smudge
+Maintainer: Nathan Michaels <nathan@nmichaels.org>
+Version: 0.6
+Build-Depends: debhelper (>= 10),
+               haskell-stack (>=1.1.2)
+Standards-Version: 4.1.1
+Vcs-Browser: https://github.com/Bose/Smudge
+Vcs-Git: https://github.com/Bose/Smudge.git
+Homepage: https://github.com/Bose/Smudge
+Architecture: amd64
+Depends: graphviz
+Priority: optional
+Section: devel
+Filename: pool/main/s/smudge/smudge_0.6_amd64.deb
+Size: 1747510
+SHA256: ea84384a1286007aeddf71b5a71a88f7a1d6624c8c75921daf01473693cc20a6
+SHA1: 89d44f917b0d3f03273c386ac8c7b97da4528ebb
+MD5sum: 02d62c255adb963fe2ce19c1d30c8622
+Description: State machine generation language
+ Smudge is a domain specific language for implementing state
+ machines. The compiler generates standard C code as well as graphical
+ state diagrams. Its output is optimized for use on very limited
+ embedded systems, but designed to be used anywhere state machines are
+ appropriate.
+
