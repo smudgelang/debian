@@ -1,21 +1,40 @@
+Package: libsmear-dev
+Source: libsmear
+Version: 0.1-linux
+Architecture: amd64
+Maintainer: smudgelang project <nmichaels@gmail.com>
+Installed-Size: 72
+Multi-Arch: same
+Homepage: https://github.com/smudgelang/smear
+Priority: optional
+Section: libdevel
+Filename: pool/main/libs/libsmear/libsmear-dev_0.1-linux_amd64.deb
+Size: 9494
+SHA256: 50a5412a0a69c9f4e96feacc723914580e9a609bc1e2db09ef26c3c3f71a4b23
+SHA1: bd85d4c4f9c38c0086619e4717095449369378b7
+MD5sum: 9e366a2a075f22d7ed9f1678e5183313
+Description: Smear is the SMudge Environment And Runtime,
+ a standard library for the Smudge state machine
+ programming language. This is the development package.
+
 Package: smudge
 Maintainer: Nathan Michaels <nathan@nmichaels.org>
-Version: 0.6
+Version: 0.7-linux
 Build-Depends: debhelper (>= 10),
                haskell-stack (>=1.1.2)
 Standards-Version: 4.1.1
-Vcs-Browser: https://github.com/Bose/Smudge
-Vcs-Git: https://github.com/Bose/Smudge.git
-Homepage: https://github.com/Bose/Smudge
+Vcs-Browser: https://github.com/smudgelang/smudge
+Vcs-Git: https://github.com/smudgelang/smudge.git
+Homepage: https://github.com/smudgelang/smudge
 Architecture: amd64
 Depends: graphviz
 Priority: optional
 Section: devel
-Filename: pool/main/s/smudge/smudge_0.6_amd64.deb
-Size: 1747510
-SHA256: ea84384a1286007aeddf71b5a71a88f7a1d6624c8c75921daf01473693cc20a6
-SHA1: 89d44f917b0d3f03273c386ac8c7b97da4528ebb
-MD5sum: 02d62c255adb963fe2ce19c1d30c8622
+Filename: pool/main/s/smudge/smudge_0.7-linux_amd64.deb
+Size: 2454828
+SHA256: 91b2ab8ac8f8471ac57342dcdea84ed08a146c755b8890b18580f22f8f3c279d
+SHA1: 47bbc3d50df95b21bfa819dd064471ed99cb11e8
+MD5sum: 65bfe12d3e26b4be53124f0c24fa92a0
 Description: State machine generation language
  Smudge is a domain specific language for implementing state
  machines. The compiler generates standard C code as well as graphical
