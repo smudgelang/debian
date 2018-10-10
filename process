@@ -1,0 +1,7 @@
+To add a package to this repository:
+
+reprepro includedeb testing <deb-file>
+reprepro includedeb unstable <deb-file>
+
+The signing key and its password are on Nathan's computer. (todo:
+export secret key and keep it somewhere)
