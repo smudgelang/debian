@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: smudgelang.github.io/debian
 Label: smudgelang.github.io/debian
 Codename: unstable
-Date: Wed, 10 Oct 2018 03:58:54 UTC
+Date: Wed, 10 Oct 2018 04:25:35 UTC
 Architectures: amd64
 Components: main
 Description: Repository for Smudge-related packages
 MD5Sum:
- 88c896369fb675817f7db83e4a703d63 1617 main/binary-amd64/Packages
- a295577ab938912698f2e51cb5b0809b 873 main/binary-amd64/Packages.gz
+ 7ff7c33feb064975b2298e58dcd38124 2220 main/binary-amd64/Packages
+ 718014bea894dc49aadf596ac31a96c4 1090 main/binary-amd64/Packages.gz
  57aaccdbbaeca602663d2d29af57ffb9 159 main/binary-amd64/Release
 SHA1:
- 0e7d59a1df15a1656c16be17fcf769f193dd6424 1617 main/binary-amd64/Packages
- 642c9d04e74d4409ffeaa0817ac510d06ea4cc30 873 main/binary-amd64/Packages.gz
+ 33d5f926ec9210285a28491b562310e6ff9402a6 2220 main/binary-amd64/Packages
+ 2525f12a7224e9a41258ef80000b6dbcd3523223 1090 main/binary-amd64/Packages.gz
  0fc91da1aaf0fffc715216b60479f2bf82b8c1aa 159 main/binary-amd64/Release
 SHA256:
- 2f398222f171ea2f1c94fe29b2a0734058ef34a873ba183cdaebb82b254e9df1 1617 main/binary-amd64/Packages
- 640664a4e0ddc6e9e9bc3e6538e4e3f61930228652f5f12cb4965f1504987f3c 873 main/binary-amd64/Packages.gz
+ 2b7c1136681f77946930870ea5915450d2484092dd4a94580ce970074232e27c 2220 main/binary-amd64/Packages
+ 841374a2ff2557386e426361a7fec84c56a18c95e28201ee11b6359aafb3c2a3 1090 main/binary-amd64/Packages.gz
  aa148447671ec99965e139a9e238996d90b4888e7e0faafba54b4e8f97c86b19 159 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEwdr57KqppVVIK0cDPGYFgySB1KsFAlu9eP8ACgkQPGYFgySB
-1KvVZQv/TCo4aBKqR7PgRCYZihl5k4g86BsA/Or/G6jt64ygtXqB828WG9QEVzbL
-lcp8EKdcPsgFP0q10xYsP9c8bmX0yKoIKSwsEz9EHqZHmSDyZZOoVgHAEHEZsigb
-YLZNFH3duZtijJJIx/IZpKbSGy+7qHhaKtA1pAP3erN5w5O3ue0nXA9YwqLwcYYJ
-/6Kb8E/5h9pAsZIbr5fCy17PHcTOytpVmAYWUTu55jfr9srHAzfeA5D7OxHbbNPR
-ms2Pz+brE08rF2n1Y0aSdCOEOJqp31BmlTreVjfAAeAPb6BkYMdmRv6OGWX8ecQO
-GIpvP2A/VRcyZDb2I0a3I3jadOAWNX924NeY23fYroAOf9C9+ThMZ8GFgzFKUby5
-+WTuSaUJthuYit3/HuA+b4MgvJftIPmyWqQoWHJW4w2715YbLqfKPIk3wmMxc7/3
-P8zvZUxUQ3mxXMZXPs9sV4cDXtTJqdcWuTfbsPAdaqdJOpicPsVaTmvNlsLHXv/8
-GyZwodpm
-=j7FQ
+iQGzBAEBCgAdFiEEwdr57KqppVVIK0cDPGYFgySB1KsFAlu9fz8ACgkQPGYFgySB
+1KtTiwwAiBVPFasoBWhhkbZF82kvrAgVLbmp8gp1dm2KpZi8QaoCZtWktq1iLE3X
+Zvlxw8ymh4+NYNOzr7pbYVpVByTn80RBWPjPB+M56deELFxAjS60myQyTIi4jg+J
+mcseIIZTFYcqLAvSrCpABg/2O9c0I6/yCo6cza7lPA/DY5U5DY03z91HsjfKU236
+WgHt1ArRY5g1Jy0xUR781bvfsbJSGFRUvBlWJaOt/7Q3ojxgcAblu7FlEfqG1imD
+9Zp2CIMuEN4LCbNc+nBiDKdYkoFBnkJeLhUrW5tgcvF71wI5ynoKouySxRxx+IZt
+0kqgr8pRLrSfCf+6NZ8dVuWmwsmmL85h2Voxn46na5Z8mXuquvaK/WRhSnCty90j
+M3SQjpS72ryNO/hmiKUKJ/ZBppRS/0r74E5XyDUrt907Oog8y734ybe3W+EoeZZf
+uu6U3jPH83CxPTBIb7DolQChhvkdoUcDS9mrCEG/0H9ltOS0PO6kvXI5a7tPrg3k
+p+Z3Jq+t
+=l2vx
 -----END PGP SIGNATURE-----

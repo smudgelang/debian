@@ -42,3 +42,20 @@ Description: State machine generation language
  embedded systems, but designed to be used anywhere state machines are
  appropriate.
 
+Package: smudge-platform
+Version: 1-linux
+Architecture: amd64
+Maintainer: Nathan Michaels <nathan@nmichaels.org>
+Installed-Size: 27
+Depends: smudge (= 0.7-linux), libsmear-dev (= 0.1-linux)
+Priority: optional
+Section: devel
+Filename: pool/main/s/smudge-platform/smudge-platform_1-linux_amd64.deb
+Size: 2396
+SHA256: 5c73d52e808d136309d816bb7a5f2f9e177d69e4fae2b2e4762a5b59d125f9bd
+SHA1: d0563e57f2f09ec2f7f5a5a5a2bfdf2379c1974a
+MD5sum: 2708c399fcb721b702eef16fd4181d05
+Description: Smudge Platform: Libraries and Toolchain
+ This is a virtual package that depends on the packages required to
+ use Smudge
+
