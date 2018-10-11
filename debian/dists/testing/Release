@@ -1,19 +1,19 @@
 Origin: smudgelang.github.io/debian
 Label: smudgelang.github.io/debian
 Codename: testing
-Date: Wed, 10 Oct 2018 04:25:12 UTC
+Date: Thu, 11 Oct 2018 01:43:42 UTC
 Architectures: amd64
 Components: main
 Description: Repository for Smudge-related packages
 MD5Sum:
- 7ff7c33feb064975b2298e58dcd38124 2220 main/binary-amd64/Packages
- 718014bea894dc49aadf596ac31a96c4 1090 main/binary-amd64/Packages.gz
+ 19604536dc68b962980c90dec15cc243 2232 main/binary-amd64/Packages
+ b6b938805f19c4389c321b7dd10f885c 1091 main/binary-amd64/Packages.gz
  57aaccdbbaeca602663d2d29af57ffb9 159 main/binary-amd64/Release
 SHA1:
- 33d5f926ec9210285a28491b562310e6ff9402a6 2220 main/binary-amd64/Packages
- 2525f12a7224e9a41258ef80000b6dbcd3523223 1090 main/binary-amd64/Packages.gz
+ 105d024758255918f6d9d8497b977a7afc24380b 2232 main/binary-amd64/Packages
+ 71181175e50cda2078cd8a01b70a601e4cbf3aa2 1091 main/binary-amd64/Packages.gz
  0fc91da1aaf0fffc715216b60479f2bf82b8c1aa 159 main/binary-amd64/Release
 SHA256:
- 2b7c1136681f77946930870ea5915450d2484092dd4a94580ce970074232e27c 2220 main/binary-amd64/Packages
- 841374a2ff2557386e426361a7fec84c56a18c95e28201ee11b6359aafb3c2a3 1090 main/binary-amd64/Packages.gz
+ 85a2fb57ac52bd2502a1ce1d8782ebf5526f85faf1f62a7e0fd8841e48c9c242 2232 main/binary-amd64/Packages
+ 6da3b89350e189e1868b9bab4a64d48ef9e09f8c39f2c97f4759dd13fd956fe3 1091 main/binary-amd64/Packages.gz
  aa148447671ec99965e139a9e238996d90b4888e7e0faafba54b4e8f97c86b19 159 main/binary-amd64/Release

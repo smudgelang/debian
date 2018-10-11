@@ -1,6 +1,6 @@
 Package: libsmear-dev
 Source: libsmear
-Version: 0.1-linux
+Version: 0.1.1-linux
 Architecture: amd64
 Maintainer: smudgelang project <nmichaels@gmail.com>
 Installed-Size: 72
@@ -8,18 +8,18 @@ Multi-Arch: same
 Homepage: https://github.com/smudgelang/smear
 Priority: optional
 Section: libdevel
-Filename: pool/main/libs/libsmear/libsmear-dev_0.1-linux_amd64.deb
-Size: 9494
-SHA256: 50a5412a0a69c9f4e96feacc723914580e9a609bc1e2db09ef26c3c3f71a4b23
-SHA1: bd85d4c4f9c38c0086619e4717095449369378b7
-MD5sum: 9e366a2a075f22d7ed9f1678e5183313
+Filename: pool/main/libs/libsmear/libsmear-dev_0.1.1-linux_amd64.deb
+Size: 9616
+SHA256: fb36cd221d253ccf2b1ad20702284c254477f98dfa7f8341a21d3b98f577cf86
+SHA1: fdd36938ed7dec39a4aa4cf7ee9cca47c49516bf
+MD5sum: a3588cd5f787f5c115b879dae1f0a056
 Description: Smear is the SMudge Environment And Runtime,
  a standard library for the Smudge state machine
  programming language. This is the development package.
 
 Package: smudge
 Maintainer: Nathan Michaels <nathan@nmichaels.org>
-Version: 0.7-linux
+Version: 0.7.1-linux
 Build-Depends: debhelper (>= 10),
                haskell-stack (>=1.1.2)
 Standards-Version: 4.1.1
@@ -30,11 +30,11 @@ Architecture: amd64
 Depends: graphviz
 Priority: optional
 Section: devel
-Filename: pool/main/s/smudge/smudge_0.7-linux_amd64.deb
-Size: 2454828
-SHA256: 91b2ab8ac8f8471ac57342dcdea84ed08a146c755b8890b18580f22f8f3c279d
-SHA1: 47bbc3d50df95b21bfa819dd064471ed99cb11e8
-MD5sum: 65bfe12d3e26b4be53124f0c24fa92a0
+Filename: pool/main/s/smudge/smudge_0.7.1-linux_amd64.deb
+Size: 2452696
+SHA256: ec781b4a16af1ba2117f5dc7767f63f07df3aa9794f99892b10509e0d52e5e29
+SHA1: 4df037235f6c9b2f6d52288003df2fbd51387c5a
+MD5sum: 879b5ef0a5da6412e47ff719f1b9ad21
 Description: State machine generation language
  Smudge is a domain specific language for implementing state
  machines. The compiler generates standard C code as well as graphical
@@ -43,18 +43,18 @@ Description: State machine generation language
  appropriate.
 
 Package: smudge-platform
-Version: 1-linux
+Version: 2-linux
 Architecture: amd64
 Maintainer: Nathan Michaels <nathan@nmichaels.org>
 Installed-Size: 27
-Depends: smudge (= 0.7-linux), libsmear-dev (= 0.1-linux)
+Depends: smudge (= 0.7.1-linux), libsmear-dev (= 0.1.1-linux)
 Priority: optional
 Section: devel
-Filename: pool/main/s/smudge-platform/smudge-platform_1-linux_amd64.deb
-Size: 2396
-SHA256: 5c73d52e808d136309d816bb7a5f2f9e177d69e4fae2b2e4762a5b59d125f9bd
-SHA1: d0563e57f2f09ec2f7f5a5a5a2bfdf2379c1974a
-MD5sum: 2708c399fcb721b702eef16fd4181d05
+Filename: pool/main/s/smudge-platform/smudge-platform_2-linux_amd64.deb
+Size: 2400
+SHA256: 69c5aae27ef632b799d10dc22100a76361f7c8c7a1796294ef600609706f76ab
+SHA1: c19c91333c00453db5702899dc265d7cb2428b0e
+MD5sum: 6cf17ff8a1116935235839a153e31510
 Description: Smudge Platform: Libraries and Toolchain
  This is a virtual package that depends on the packages required to
  use Smudge
